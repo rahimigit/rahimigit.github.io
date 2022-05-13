@@ -1,1 +1,1 @@
-# rahimigit.github.io
+# How to configure nginx-ingress controller
